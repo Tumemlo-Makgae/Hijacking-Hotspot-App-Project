@@ -1,0 +1,24 @@
+Issue Name,Assignee,Labels,Project,Milestone
+Project Initiation,Tumelo makgae,planning,Hijacking Hotspot App Development,Project Planning
+Scope Definition,Tumelo makgae,"planning, requirements",Hijacking Hotspot App Development,Project Planning
+Risk Assessment,Tumelo makgae,"planning, risk",Hijacking Hotspot App Development,Project Planning
+UI/UX Wireframing,Tumelo makgae,"design, UI/UX",Hijacking Hotspot App Development,Design Phase
+User Flows Design,Tumelo makgae,"design, UI/UX, flow",Hijacking Hotspot App Development,Design Phase
+Prototype Development,Tumelo makgae,"design, UI/UX, prototype",Hijacking Hotspot App Development,Design Phase
+"Graphic Design (Icons, Logo)",Tumelo makgae,"design, graphics",Hijacking Hotspot App Development,Design Phase
+Database Design,Tumelo makgae,"backend, database",Hijacking Hotspot App Development,Development Phase
+API Development,Tumelo makgae,"backend, API",Hijacking Hotspot App Development,Development Phase
+Alert System Implementation,Tumelo makgae,"backend, alerts",Hijacking Hotspot App Development,Development Phase
+React Native Setup,Tumelo makgae,"frontend, React Native",Hijacking Hotspot App Development,Development Phase
+UI Implementation,Tumelo makgae,"frontend, UI",Hijacking Hotspot App Development,Development Phase
+Integration with Back-End,Tumelo makgae,"frontend, backend, integration",Hijacking Hotspot App Development,Development Phase
+Unit Testing,Tumelo makgae,"testing, QA, unit",Hijacking Hotspot App Development,Testing and QA
+Integration Testing,Tumelo makgae,"testing, QA, integration",Hijacking Hotspot App Development,Testing and QA
+User Acceptance Testing (UAT),Tumelo makgae,"testing, UAT",Hijacking Hotspot App Development,Testing and QA
+Bug Fixing and Refinement,Tumelo makgae,"bug, frontend, backend",Hijacking Hotspot App Development,Testing and QA
+App Store Submission (iOS and Android),Tumelo makgae,"deployment, app store",Hijacking Hotspot App Development,Deployment and Launch
+Marketing Material Preparation,Tumelo makgae,"marketing, materials",Hijacking Hotspot App Development,Deployment and Launch
+Initial Marketing Campaign,Tumelo makgae,"marketing, campaign",Hijacking Hotspot App Development,Deployment and Launch
+Launch and User Onboarding,Tumelo makgae,"launch, onboarding",Hijacking Hotspot App Development,Deployment and Launch
+Monitor User Feedback,Tumelo makgae,"support, feedback",Hijacking Hotspot App Development,Post-Launch Activities
+Bug Fixes and Updates,Tumelo makgae,"bug, maintenance",Hijacking Hotspot App Development,Post-Launch Activities
